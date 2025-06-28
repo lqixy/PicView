@@ -1,0 +1,81 @@
+# .NET Core/.NET项目忽略文件
+
+# 构建结果
+bin/
+obj/
+
+# Visual Studio文件
+.vs/
+*.user
+*.userosscache
+*.suo
+*.userprefs
+*.dbmdl
+*.dbproj.schemaview
+*.jfm
+*.pfx
+*.publishsettings
+orleans.codegen.cs
+
+# Rider文件
+.idea/
+*.sln.iml
+.idea/
+.idea/*
+
+# Visual Studio Code文件
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+# macOS系统文件
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Windows系统文件
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.cab
+*.msi
+*.msm
+*.msp
+*.lnk
+
+# 应用程序包和发布文件
+*.app
+*.dmg
+*.zip
+*.tar.gz
+*.ipa
+*.apk
+
+# NuGet包
+*.nupkg
+*.snupkg
+**/packages/*
+*.nuget.props
+*.nuget.targets
+
+# 用户特定文件
+*.userprefs
+*.usertasks
+
+# 项目特定忽略
+PicView.dmg
+
+# 日志文件
+*.log 
