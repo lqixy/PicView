@@ -1,5 +1,0 @@
-/Users/liuqi/program/backend/dotnet/demo/PicView/PicView/bin/Release/net9.0/osx-arm64/publish/PicView.pdb
-/Users/liuqi/program/backend/dotnet/demo/PicView/PicView/bin/Release/net9.0/osx-arm64/publish/libAvaloniaNative.dylib
-/Users/liuqi/program/backend/dotnet/demo/PicView/PicView/bin/Release/net9.0/osx-arm64/publish/libHarfBuzzSharp.dylib
-/Users/liuqi/program/backend/dotnet/demo/PicView/PicView/bin/Release/net9.0/osx-arm64/publish/libSkiaSharp.dylib
-/Users/liuqi/program/backend/dotnet/demo/PicView/PicView/bin/Release/net9.0/osx-arm64/publish/PicView
